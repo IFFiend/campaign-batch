@@ -1,0 +1,530 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "background": "#F2F0E9",
+  "event": {
+    "id": "meet",
+    "locale": "en",
+    "family": "ticket",
+    "edition": "03 / IN PERSON",
+    "category": "OPEN STUDIO NIGHT",
+    "title": "Good work.\nGreat\ncompany.",
+    "subtitle": "Meet the people making\nthe next thing happen.",
+    "date": "2026-12-03",
+    "time": "18:00 AEDT",
+    "location": "Melbourne",
+    "cta": "Save a seat  /  foundry.example/meet",
+    "timezone": "Australia/Sydney"
+  },
+  "elements": [
+    {
+      "kind": "text",
+      "role": "brand",
+      "text": "FOUNDRY / SESSIONS",
+      "lines": [
+        "FOUNDRY / SESSIONS"
+      ],
+      "box": [
+        64,
+        55,
+        1616,
+        110
+      ],
+      "ink_box": [
+        64,
+        55,
+        455.96875,
+        96
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 36,
+      "step": 41,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "edition",
+      "text": "03 / IN PERSON",
+      "lines": [
+        "03 / IN PERSON"
+      ],
+      "box": [
+        1616,
+        63,
+        1856,
+        105
+      ],
+      "ink_box": [
+        1616,
+        63,
+        1773.0,
+        87
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 21,
+      "step": 24,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        126,
+        1856,
+        128
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        164,
+        450,
+        580
+      ],
+      "fill": "#D1EF70",
+      "radius": 12
+    },
+    {
+      "kind": "text",
+      "role": "date_day",
+      "text": "03",
+      "lines": [
+        "03"
+      ],
+      "box": [
+        88,
+        195,
+        426,
+        385
+      ],
+      "ink_box": [
+        88,
+        195,
+        274.0,
+        385
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 168,
+      "step": 190,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "date_month",
+      "text": "2026-12",
+      "lines": [
+        "2026-12"
+      ],
+      "box": [
+        88,
+        502,
+        426,
+        556
+      ],
+      "ink_box": [
+        88,
+        502,
+        226.0,
+        544
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 37,
+      "step": 42,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "category",
+      "text": "OPEN STUDIO NIGHT",
+      "lines": [
+        "OPEN STUDIO NIGHT"
+      ],
+      "box": [
+        530,
+        167,
+        1856,
+        205
+      ],
+      "ink_box": [
+        530,
+        167,
+        778.0,
+        195
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 24,
+      "step": 28,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "title",
+      "text": "Good work.\nGreat\ncompany.",
+      "lines": [
+        "Good work.",
+        "Great",
+        "company."
+      ],
+      "box": [
+        530,
+        239,
+        1856,
+        520
+      ],
+      "ink_box": [
+        530,
+        239,
+        982.0,
+        518
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 82,
+      "step": 93,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "subtitle",
+      "text": "Meet the people making\nthe next thing happen.",
+      "lines": [
+        "Meet the people making",
+        "the next thing happen."
+      ],
+      "box": [
+        530,
+        545,
+        1856,
+        655
+      ],
+      "ink_box": [
+        530,
+        545,
+        892.0,
+        623
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 34,
+      "step": 39,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        700,
+        1856,
+        826
+      ],
+      "fill": "#D1EF70",
+      "radius": 18
+    },
+    {
+      "kind": "rect",
+      "box": [
+        207.36,
+        716.38,
+        296.96000000000004,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        386.56,
+        716.38,
+        433.152,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        565.76,
+        716.38,
+        655.36,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        744.9600000000002,
+        716.38,
+        791.5520000000001,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        924.1600000000001,
+        716.38,
+        1013.7600000000001,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        1103.36,
+        716.38,
+        1149.952,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        1282.5600000000002,
+        716.38,
+        1372.16,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        1461.76,
+        716.38,
+        1508.352,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        1640.96,
+        716.38,
+        1730.56,
+        809.62
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        858,
+        1856,
+        860
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "date_label",
+      "text": "DATE",
+      "lines": [
+        "DATE"
+      ],
+      "box": [
+        64,
+        883,
+        637.44,
+        913
+      ],
+      "ink_box": [
+        64,
+        883,
+        115.984375,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "date",
+      "text": "2026-12-03",
+      "lines": [
+        "2026-12-03"
+      ],
+      "box": [
+        64,
+        922,
+        637.44,
+        1003
+      ],
+      "ink_box": [
+        64,
+        922,
+        276.0,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "time_label",
+      "text": "TIME",
+      "lines": [
+        "TIME"
+      ],
+      "box": [
+        691.1999999999999,
+        883,
+        1246.7199999999998,
+        913
+      ],
+      "ink_box": [
+        691.1999999999999,
+        883,
+        737.1999999999999,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "time",
+      "text": "18:00 AEDT",
+      "lines": [
+        "18:00 AEDT"
+      ],
+      "box": [
+        691.1999999999999,
+        922,
+        1246.7199999999998,
+        1003
+      ],
+      "ink_box": [
+        691.1999999999999,
+        922,
+        923.1687499999999,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "location_label",
+      "text": "WHERE",
+      "lines": [
+        "WHERE"
+      ],
+      "box": [
+        1300.48,
+        883,
+        1856.0,
+        913
+      ],
+      "ink_box": [
+        1300.48,
+        883,
+        1372.48,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "location",
+      "text": "Melbourne",
+      "lines": [
+        "Melbourne"
+      ],
+      "box": [
+        1300.48,
+        922,
+        1856.0,
+        1003
+      ],
+      "ink_box": [
+        1300.48,
+        922,
+        1513.48,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        1016,
+        1856,
+        1018
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "cta",
+      "text": "Save a seat  /  foundry.example/meet",
+      "lines": [
+        "Save a seat  /  foundry.example/meet"
+      ],
+      "box": [
+        64,
+        1026,
+        1856,
+        1072
+      ],
+      "ink_box": [
+        64,
+        1026,
+        622.953125,
+        1065
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 34,
+      "step": 39,
+      "fill": "#172B28",
+      "bold": false
+    }
+  ]
+}

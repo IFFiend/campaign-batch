@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="100%" height="100%" fill="#F2F0E9"/>
+<text x="64" y="55" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#172B28">FOUNDRY / SESSIONS</text>
+<text x="1616" y="63" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="21" font-weight="400" fill="#172B28">01 / IN PERSON</text>
+<rect x="64" y="126" width="1792" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="161" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#172B28">A WORKSHOP FOR MAKERS</text>
+<text x="64" y="225" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="102" font-weight="700" fill="#172B28">Make room</text>
+<text x="64" y="341" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="102" font-weight="700" fill="#172B28">for better</text>
+<text x="64" y="457" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="102" font-weight="700" fill="#172B28">ideas.</text>
+<text x="64" y="600" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="33" font-weight="400" fill="#172B28">An evening of small experiments</text>
+<text x="64" y="638" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="33" font-weight="400" fill="#172B28">and unexpected connections.</text>
+<rect x="1220" y="160" width="636" height="666" rx="18" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="306.52000000000004" rx="216.24" ry="79.92000000000002" fill="#172B28"/>
+<ellipse cx="1538.0" cy="298.19500000000005" rx="152.63999999999987" ry="54.94500000000001" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="376.45" rx="216.24" ry="79.92000000000002" fill="#172B28"/>
+<ellipse cx="1538.0" cy="368.125" rx="152.63999999999987" ry="54.94500000000002" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="446.38000000000005" rx="216.24" ry="79.92000000000002" fill="#172B28"/>
+<ellipse cx="1538.0" cy="438.05500000000006" rx="152.63999999999987" ry="54.94500000000002" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="516.3100000000001" rx="216.24" ry="79.91999999999999" fill="#172B28"/>
+<ellipse cx="1538.0" cy="507.985" rx="152.63999999999987" ry="54.94500000000002" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="586.24" rx="216.24" ry="79.91999999999999" fill="#172B28"/>
+<ellipse cx="1538.0" cy="577.915" rx="152.63999999999987" ry="54.94499999999999" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="656.1700000000001" rx="216.24" ry="79.92000000000002" fill="#172B28"/>
+<ellipse cx="1538.0" cy="647.845" rx="152.63999999999987" ry="54.94499999999999" fill="#D1EF70"/>
+<ellipse cx="1538.0" cy="726.1000000000001" rx="216.24" ry="79.92000000000002" fill="#172B28"/>
+<ellipse cx="1538.0" cy="717.7750000000001" rx="152.63999999999987" ry="54.94499999999999" fill="#D1EF70"/>
+<rect x="64" y="858" width="1792" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">DATE</text>
+<text x="64" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">2026-11-19</text>
+<text x="691.1999999999999" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">TIME</text>
+<text x="691.1999999999999" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">18:30 AEDT</text>
+<text x="1300.48" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">WHERE</text>
+<text x="1300.48" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">Sydney</text>
+<rect x="64" y="1016" width="1792" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="1026" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="34" font-weight="400" fill="#172B28">Reserve your place  /  foundry.example/build</text>
+</svg>

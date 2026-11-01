@@ -1,0 +1,27 @@
+{
+  "name": "Bug report",
+  "description": "A reproducible install, builder or output error.",
+  "title": "[Bug] ",
+  "body": [
+    {
+      "type": "textarea",
+      "id": "reproduce",
+      "attributes": {
+        "label": "Command, sanitized input, expected and actual output"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "environment",
+      "attributes": {
+        "label": "OS, Python and version/commit"
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "background": "#F2F0E9",
+  "event": {
+    "id": "build",
+    "locale": "en",
+    "family": "editorial",
+    "edition": "01 / IN PERSON",
+    "category": "A WORKSHOP FOR MAKERS",
+    "title": "Make room\nfor better\nideas.",
+    "subtitle": "An evening of small experiments\nand unexpected connections.",
+    "date": "2026-11-19",
+    "time": "18:30 AEDT",
+    "location": "Sydney",
+    "cta": "Reserve your place  /  foundry.example/build",
+    "timezone": "Australia/Sydney"
+  },
+  "elements": [
+    {
+      "kind": "text",
+      "role": "brand",
+      "text": "FOUNDRY / SESSIONS",
+      "lines": [
+        "FOUNDRY / SESSIONS"
+      ],
+      "box": [
+        64,
+        55,
+        1616,
+        110
+      ],
+      "ink_box": [
+        64,
+        55,
+        455.96875,
+        96
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 36,
+      "step": 41,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "edition",
+      "text": "01 / IN PERSON",
+      "lines": [
+        "01 / IN PERSON"
+      ],
+      "box": [
+        1616,
+        63,
+        1856,
+        105
+      ],
+      "ink_box": [
+        1616,
+        63,
+        1773.0,
+        87
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 21,
+      "step": 24,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        126,
+        1856,
+        128
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "category",
+      "text": "A WORKSHOP FOR MAKERS",
+      "lines": [
+        "A WORKSHOP FOR MAKERS"
+      ],
+      "box": [
+        64,
+        161,
+        1130,
+        203
+      ],
+      "ink_box": [
+        64,
+        161,
+        399.984375,
+        189
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 24,
+      "step": 28,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "title",
+      "text": "Make room\nfor better\nideas.",
+      "lines": [
+        "Make room",
+        "for better",
+        "ideas."
+      ],
+      "box": [
+        64,
+        225,
+        1130,
+        575
+      ],
+      "ink_box": [
+        64,
+        225,
+        603.0,
+        573
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 102,
+      "step": 116,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "subtitle",
+      "text": "An evening of small experiments\nand unexpected connections.",
+      "lines": [
+        "An evening of small experiments",
+        "and unexpected connections."
+      ],
+      "box": [
+        64,
+        600,
+        1110,
+        826
+      ],
+      "ink_box": [
+        64,
+        600,
+        535.0,
+        676
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 33,
+      "step": 38,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        1220,
+        160,
+        1856,
+        826
+      ],
+      "fill": "#D1EF70",
+      "radius": 18
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        226.60000000000002,
+        1754.24,
+        386.44000000000005
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        243.25000000000003,
+        1690.6399999999999,
+        353.14000000000004
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        296.53,
+        1754.24,
+        456.37
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        313.17999999999995,
+        1690.6399999999999,
+        423.07
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        366.46000000000004,
+        1754.24,
+        526.3000000000001
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        383.11,
+        1690.6399999999999,
+        493.00000000000006
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        436.39000000000004,
+        1754.24,
+        596.23
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        453.04,
+        1690.6399999999999,
+        562.9300000000001
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        506.32,
+        1754.24,
+        666.16
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        522.97,
+        1690.6399999999999,
+        632.86
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        576.25,
+        1754.24,
+        736.09
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        592.9,
+        1690.6399999999999,
+        702.79
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1321.76,
+        646.1800000000001,
+        1754.24,
+        806.0200000000001
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        1385.3600000000001,
+        662.83,
+        1690.6399999999999,
+        772.72
+      ],
+      "fill": "#D1EF70"
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        858,
+        1856,
+        860
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "date_label",
+      "text": "DATE",
+      "lines": [
+        "DATE"
+      ],
+      "box": [
+        64,
+        883,
+        637.44,
+        913
+      ],
+      "ink_box": [
+        64,
+        883,
+        115.984375,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "date",
+      "text": "2026-11-19",
+      "lines": [
+        "2026-11-19"
+      ],
+      "box": [
+        64,
+        922,
+        637.44,
+        1003
+      ],
+      "ink_box": [
+        64,
+        922,
+        275.96875,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "time_label",
+      "text": "TIME",
+      "lines": [
+        "TIME"
+      ],
+      "box": [
+        691.1999999999999,
+        883,
+        1246.7199999999998,
+        913
+      ],
+      "ink_box": [
+        691.1999999999999,
+        883,
+        737.1999999999999,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "time",
+      "text": "18:30 AEDT",
+      "lines": [
+        "18:30 AEDT"
+      ],
+      "box": [
+        691.1999999999999,
+        922,
+        1246.7199999999998,
+        1003
+      ],
+      "ink_box": [
+        691.1999999999999,
+        922,
+        923.1687499999999,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "location_label",
+      "text": "WHERE",
+      "lines": [
+        "WHERE"
+      ],
+      "box": [
+        1300.48,
+        883,
+        1856.0,
+        913
+      ],
+      "ink_box": [
+        1300.48,
+        883,
+        1372.48,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#172B28",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "location",
+      "text": "Sydney",
+      "lines": [
+        "Sydney"
+      ],
+      "box": [
+        1300.48,
+        922,
+        1856.0,
+        1003
+      ],
+      "ink_box": [
+        1300.48,
+        922,
+        1449.48,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#172B28",
+      "bold": true
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        1016,
+        1856,
+        1018
+      ],
+      "fill": "#172B28",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "cta",
+      "text": "Reserve your place  /  foundry.example/build",
+      "lines": [
+        "Reserve your place  /  foundry.example/build"
+      ],
+      "box": [
+        64,
+        1026,
+        1856,
+        1072
+      ],
+      "ink_box": [
+        64,
+        1026,
+        734.953125,
+        1065
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 34,
+      "step": 39,
+      "fill": "#172B28",
+      "bold": false
+    }
+  ]
+}

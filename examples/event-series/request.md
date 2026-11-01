@@ -1,0 +1,1 @@
+Prepare one consistent campaign for these three approved sessions. Use the supplied brand colours, keep dates/timezones/registration text unchanged, and produce square, portrait and wide graphics. Review a representative proof before the full batch. All source facts are fictional demo data.

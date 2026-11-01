@@ -1,0 +1,549 @@
+{
+  "canvas": [
+    1080,
+    1080
+  ],
+  "background": "#172B28",
+  "event": {
+    "id": "signal",
+    "locale": "en",
+    "family": "signal",
+    "edition": "02 / ONLINE",
+    "category": "DESIGN + TECHNOLOGY",
+    "title": "Less noise.\nMore signal.",
+    "subtitle": "Build a clearer story around\nthe work you already do.",
+    "date": "2026-11-26",
+    "time": "17:00 AEDT",
+    "location": "Online",
+    "cta": "Join the session  /  foundry.example/signal",
+    "timezone": "Australia/Sydney"
+  },
+  "elements": [
+    {
+      "kind": "text",
+      "role": "brand",
+      "text": "FOUNDRY / SESSIONS",
+      "lines": [
+        "FOUNDRY / SESSIONS"
+      ],
+      "box": [
+        64,
+        55,
+        776,
+        110
+      ],
+      "ink_box": [
+        64,
+        55,
+        455.96875,
+        96
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 36,
+      "step": 41,
+      "fill": "#F2F0E9",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "edition",
+      "text": "02 / ONLINE",
+      "lines": [
+        "02 / ONLINE"
+      ],
+      "box": [
+        776,
+        63,
+        1016,
+        105
+      ],
+      "ink_box": [
+        776,
+        63,
+        896.0,
+        87
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 21,
+      "step": 24,
+      "fill": "#F2F0E9",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        126,
+        1016,
+        128
+      ],
+      "fill": "#F2F0E9",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "category",
+      "text": "DESIGN + TECHNOLOGY",
+      "lines": [
+        "DESIGN + TECHNOLOGY"
+      ],
+      "box": [
+        64,
+        159,
+        1016,
+        198
+      ],
+      "ink_box": [
+        64,
+        159,
+        354.0,
+        187
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 24,
+      "step": 28,
+      "fill": "#D1EF70",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "title",
+      "text": "Less noise.\nMore signal.",
+      "lines": [
+        "Less noise.",
+        "More signal."
+      ],
+      "box": [
+        64,
+        225,
+        1016,
+        460
+      ],
+      "ink_box": [
+        64,
+        225,
+        666.0,
+        459
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 103,
+      "step": 117,
+      "fill": "#F2F0E9",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "subtitle",
+      "text": "Build a clearer story around\nthe work you already do.",
+      "lines": [
+        "Build a clearer story around",
+        "the work you already do."
+      ],
+      "box": [
+        64,
+        484,
+        1016,
+        598
+      ],
+      "ink_box": [
+        64,
+        484,
+        479.0,
+        562
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 34,
+      "step": 39,
+      "fill": "#F2F0E9",
+      "bold": false
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        632,
+        1016,
+        826
+      ],
+      "fill": "#D1EF70",
+      "radius": 18
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        79.05888888888889,
+        642.67,
+        154.7188888888889,
+        718.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        199.38666666666666,
+        657.22,
+        245.94666666666666,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        305.1644444444445,
+        657.22,
+        351.72444444444443,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        396.3922222222222,
+        642.67,
+        472.05222222222216,
+        718.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        516.72,
+        657.22,
+        563.28,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        622.4977777777777,
+        657.22,
+        669.0577777777777,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        713.7255555555555,
+        642.67,
+        789.3855555555556,
+        718.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        834.0533333333333,
+        657.22,
+        880.6133333333332,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        939.8311111111111,
+        657.22,
+        986.3911111111111,
+        703.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        93.60888888888888,
+        754.22,
+        140.1688888888889,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        199.38666666666666,
+        754.22,
+        245.94666666666666,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        290.6144444444445,
+        739.67,
+        366.27444444444444,
+        815.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        410.9422222222222,
+        754.22,
+        457.50222222222214,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        516.72,
+        754.22,
+        563.28,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        607.9477777777777,
+        739.67,
+        683.6077777777778,
+        815.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        728.2755555555556,
+        754.22,
+        774.8355555555555,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        834.0533333333333,
+        754.22,
+        880.6133333333332,
+        800.78
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "ellipse",
+      "box": [
+        925.281111111111,
+        739.67,
+        1000.9411111111111,
+        815.33
+      ],
+      "fill": "#172B28"
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        858,
+        1016,
+        860
+      ],
+      "fill": "#F2F0E9",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "date_label",
+      "text": "DATE",
+      "lines": [
+        "DATE"
+      ],
+      "box": [
+        64,
+        883,
+        368.64,
+        913
+      ],
+      "ink_box": [
+        64,
+        883,
+        115.984375,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#F2F0E9",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "date",
+      "text": "2026-11-26",
+      "lines": [
+        "2026-11-26"
+      ],
+      "box": [
+        64,
+        922,
+        368.64,
+        1003
+      ],
+      "ink_box": [
+        64,
+        922,
+        275.96875,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#F2F0E9",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "time_label",
+      "text": "TIME",
+      "lines": [
+        "TIME"
+      ],
+      "box": [
+        397.2,
+        883,
+        692.3199999999999,
+        913
+      ],
+      "ink_box": [
+        397.2,
+        883,
+        443.2,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#F2F0E9",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "time",
+      "text": "17:00 AEDT",
+      "lines": [
+        "17:00 AEDT"
+      ],
+      "box": [
+        397.2,
+        922,
+        692.3199999999999,
+        1003
+      ],
+      "ink_box": [
+        397.2,
+        922,
+        629.16875,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#F2F0E9",
+      "bold": true
+    },
+    {
+      "kind": "text",
+      "role": "location_label",
+      "text": "WHERE",
+      "lines": [
+        "WHERE"
+      ],
+      "box": [
+        720.88,
+        883,
+        1016.0,
+        913
+      ],
+      "ink_box": [
+        720.88,
+        883,
+        792.88,
+        905
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 19,
+      "step": 22,
+      "fill": "#F2F0E9",
+      "bold": false
+    },
+    {
+      "kind": "text",
+      "role": "location",
+      "text": "Online",
+      "lines": [
+        "Online"
+      ],
+      "box": [
+        720.88,
+        922,
+        1016.0,
+        1003
+      ],
+      "ink_box": [
+        720.88,
+        922,
+        852.88,
+        970
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "size": 42,
+      "step": 48,
+      "fill": "#F2F0E9",
+      "bold": true
+    },
+    {
+      "kind": "rect",
+      "box": [
+        64,
+        1016,
+        1016,
+        1018
+      ],
+      "fill": "#F2F0E9",
+      "radius": 0
+    },
+    {
+      "kind": "text",
+      "role": "cta",
+      "text": "Join the session  /  foundry.example/signal",
+      "lines": [
+        "Join the session  /  foundry.example/signal"
+      ],
+      "box": [
+        64,
+        1026,
+        1016,
+        1072
+      ],
+      "ink_box": [
+        64,
+        1026,
+        702.953125,
+        1065
+      ],
+      "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "size": 34,
+      "step": 39,
+      "fill": "#F2F0E9",
+      "bold": false
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_sha256": "a1c42051c63ac5bb640763fae958939139d5bb3423cc7fe72035a249aed157d6",
+  "expected": 9,
+  "rendered": 9,
+  "failed": [],
+  "items": [
+    {
+      "name": "build.en.square",
+      "size": [
+        1080,
+        1080
+      ],
+      "png_sha256": "c1baba511a1696d994f9ed749bdb34dcf5eafc914071b413561077912c52b233",
+      "svg_sha256": "9d01d78474de95b5a3e22ada3e0eb7d59af1bb9c97ab33ffa068b1f073f357eb",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "build.en.portrait",
+      "size": [
+        1080,
+        1350
+      ],
+      "png_sha256": "fea9ede62beb6591c6b650cb5455646efa3b679e9dbb8ee08bafe20b4a7b0f28",
+      "svg_sha256": "28fc7f7d6904389f29aa5564c1d820a218ee10f66563b70cc542ae83b5a2b0b6",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "build.en.wide",
+      "size": [
+        1920,
+        1080
+      ],
+      "png_sha256": "c6966a362ad5c5fd4f5dabfadf81579bd2dccb3e84509f04c5ce66754b54c585",
+      "svg_sha256": "772c56813e78b1853b458c473b3c85d497044e9d7a4aabda6d3ad62c5120d3b2",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "signal.en.square",
+      "size": [
+        1080,
+        1080
+      ],
+      "png_sha256": "96e8221d40561a2cbb9c8065a062fd1ed5e65931103058971b11f20cc9d16ef7",
+      "svg_sha256": "03fc540f5d7c85e062b3f7698f0df2348cc8b6c4c059e68e4084eef726e172a9",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "signal.en.portrait",
+      "size": [
+        1080,
+        1350
+      ],
+      "png_sha256": "0a20ab56bd536da8558e11aab7effe18934ec50b5401288245bb1016897cf501",
+      "svg_sha256": "012fe8c68699f0a4a8924249aa91a88b7d5a7fa635857b115006ea971df9047a",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "signal.en.wide",
+      "size": [
+        1920,
+        1080
+      ],
+      "png_sha256": "f16f492e6b8aa703e299c69d8bdca9f17feb6c74771922dd22846abc957109e6",
+      "svg_sha256": "0134261f99f93de6b784437ab908720b85d955125208b0afc3ec3042d89319dd",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "meet.en.square",
+      "size": [
+        1080,
+        1080
+      ],
+      "png_sha256": "58d28edfe644f54c4c3681ff1f0ab3b7f895c3a8a8a859fcac1ed474d14f0677",
+      "svg_sha256": "aac5340cff7fc71047da4d829866c1b9c20dbf007d8ac12674d43570e513550d",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "meet.en.portrait",
+      "size": [
+        1080,
+        1350
+      ],
+      "png_sha256": "e4032cca7afcd56d6d15469e5523e20c701777811efb9fc27e2de32d61d2a6e4",
+      "svg_sha256": "0ba21d5d8eef4805b5a08ee3eca021ebc62a9ff05b6c1793abd6f8d46c2a7ff9",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    },
+    {
+      "name": "meet.en.wide",
+      "size": [
+        1920,
+        1080
+      ],
+      "png_sha256": "26f9c6162971f9a242a9ae8540749fea4833d323c8213a5ec6ac5400c27e710c",
+      "svg_sha256": "13955bd2fe74c2c4ac063396c85fb475ae561fcdef0374712f915fe347a67e6a",
+      "issues": [],
+      "checks": {
+        "png_decode": "pass",
+        "text_retention": "pass",
+        "text_geometry": "pass",
+        "font_coverage": "pass"
+      }
+    }
+  ],
+  "visual_review": "pending",
+  "scope": "Geometry, retained source text, fonts, files, declared crop regions and simple solid-colour contrast. Not aesthetics, factual verification or platform approval.",
+  "status": "technical_pass"
+}

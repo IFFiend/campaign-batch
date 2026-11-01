@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="100%" height="100%" fill="#F2F0E9"/>
+<text x="64" y="55" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#172B28">FOUNDRY / SESSIONS</text>
+<text x="776" y="63" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="21" font-weight="400" fill="#172B28">03 / IN PERSON</text>
+<rect x="64" y="126" width="952" height="2" rx="0" fill="#172B28"/>
+<rect x="64" y="164" width="270" height="281" rx="12" fill="#D1EF70"/>
+<text x="88" y="195" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="121" font-weight="700" fill="#172B28">03</text>
+<text x="88" y="367" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#172B28">2026-12</text>
+<text x="390" y="167" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#172B28">OPEN STUDIO NIGHT</text>
+<text x="390" y="239" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="74" font-weight="700" fill="#172B28">Good work.</text>
+<text x="390" y="323" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="74" font-weight="700" fill="#172B28">Great</text>
+<text x="390" y="407" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="74" font-weight="700" fill="#172B28">company.</text>
+<text x="390" y="517" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="30" font-weight="400" fill="#172B28">Meet the people making</text>
+<text x="390" y="551" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="30" font-weight="400" fill="#172B28">the next thing happen.</text>
+<rect x="64" y="673" width="952" height="423" rx="18" fill="#D1EF70"/>
+<rect x="140.16" y="727.99" width="47.599999999999994" height="313.02" rx="0" fill="#172B28"/>
+<rect x="235.35999999999999" y="727.99" width="24.75199999999998" height="313.02" rx="0" fill="#172B28"/>
+<rect x="330.56" y="727.99" width="47.60000000000002" height="313.02" rx="0" fill="#172B28"/>
+<rect x="425.76000000000005" y="727.99" width="24.75200000000001" height="313.02" rx="0" fill="#172B28"/>
+<rect x="520.96" y="727.99" width="47.60000000000002" height="313.02" rx="0" fill="#172B28"/>
+<rect x="616.16" y="727.99" width="24.751999999999953" height="313.02" rx="0" fill="#172B28"/>
+<rect x="711.36" y="727.99" width="47.60000000000002" height="313.02" rx="0" fill="#172B28"/>
+<rect x="806.5600000000001" y="727.99" width="24.751999999999953" height="313.02" rx="0" fill="#172B28"/>
+<rect x="901.76" y="727.99" width="47.60000000000002" height="313.02" rx="0" fill="#172B28"/>
+<rect x="64" y="1128" width="952" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="1153" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">DATE</text>
+<text x="64" y="1192" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">2026-12-03</text>
+<text x="397.2" y="1153" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">TIME</text>
+<text x="397.2" y="1192" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">18:00 AEDT</text>
+<text x="720.88" y="1153" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">WHERE</text>
+<text x="720.88" y="1192" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">Melbourne</text>
+<rect x="64" y="1286" width="952" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="1296" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="34" font-weight="400" fill="#172B28">Save a seat  /  foundry.example/meet</text>
+</svg>

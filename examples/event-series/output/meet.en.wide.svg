@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="100%" height="100%" fill="#F2F0E9"/>
+<text x="64" y="55" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#172B28">FOUNDRY / SESSIONS</text>
+<text x="1616" y="63" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="21" font-weight="400" fill="#172B28">03 / IN PERSON</text>
+<rect x="64" y="126" width="1792" height="2" rx="0" fill="#172B28"/>
+<rect x="64" y="164" width="386" height="416" rx="12" fill="#D1EF70"/>
+<text x="88" y="195" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="168" font-weight="700" fill="#172B28">03</text>
+<text x="88" y="502" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="37" font-weight="700" fill="#172B28">2026-12</text>
+<text x="530" y="167" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#172B28">OPEN STUDIO NIGHT</text>
+<text x="530" y="239" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#172B28">Good work.</text>
+<text x="530" y="332" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#172B28">Great</text>
+<text x="530" y="425" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#172B28">company.</text>
+<text x="530" y="545" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="34" font-weight="400" fill="#172B28">Meet the people making</text>
+<text x="530" y="584" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="34" font-weight="400" fill="#172B28">the next thing happen.</text>
+<rect x="64" y="700" width="1792" height="126" rx="18" fill="#D1EF70"/>
+<rect x="207.36" y="716.38" width="89.60000000000002" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="386.56" y="716.38" width="46.591999999999985" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="565.76" y="716.38" width="89.60000000000002" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="744.9600000000002" y="716.38" width="46.591999999999985" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="924.1600000000001" y="716.38" width="89.60000000000002" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="1103.36" y="716.38" width="46.5920000000001" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="1282.5600000000002" y="716.38" width="89.59999999999991" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="1461.76" y="716.38" width="46.5920000000001" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="1640.96" y="716.38" width="89.59999999999991" height="93.24000000000001" rx="0" fill="#172B28"/>
+<rect x="64" y="858" width="1792" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">DATE</text>
+<text x="64" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">2026-12-03</text>
+<text x="691.1999999999999" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">TIME</text>
+<text x="691.1999999999999" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">18:00 AEDT</text>
+<text x="1300.48" y="883" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="19" font-weight="400" fill="#172B28">WHERE</text>
+<text x="1300.48" y="922" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172B28">Melbourne</text>
+<rect x="64" y="1016" width="1792" height="2" rx="0" fill="#172B28"/>
+<text x="64" y="1026" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="34" font-weight="400" fill="#172B28">Save a seat  /  foundry.example/meet</text>
+</svg>
